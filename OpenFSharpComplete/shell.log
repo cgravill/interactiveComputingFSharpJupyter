@@ -1,0 +1,104 @@
+2019-01-26 10:33:44 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:33:44 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:33:44 - For help type #help;;
+2019-01-26 10:33:44 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:33:44 -   seq []
+2019-01-26 10:33:44 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:33:44 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:33:44 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:33:46 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:33:46 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:33:46 - For help type #help;;
+2019-01-26 10:33:46 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:33:46 -   seq []
+2019-01-26 10:33:46 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:33:46 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:33:46 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:33:48 - Reporting 0 opened comms
+2019-01-26 10:33:53 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:33:53 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:33:53 - For help type #help;;
+2019-01-26 10:33:53 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:33:53 -   seq []
+2019-01-26 10:33:53 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:33:53 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:33:53 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:33:55 - Reporting 0 opened comms
+2019-01-26 10:34:00 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:34:00 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:34:00 - For help type #help;;
+2019-01-26 10:34:00 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:34:00 -   seq []
+2019-01-26 10:34:00 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:34:00 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:00 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:02 - Reporting 0 opened comms
+2019-01-26 10:34:06 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:34:06 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:34:06 - For help type #help;;
+2019-01-26 10:34:06 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:34:06 -   seq []
+2019-01-26 10:34:06 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:34:06 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:06 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:12 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:34:12 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:34:12 - For help type #help;;
+2019-01-26 10:34:12 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:34:12 -   seq []
+2019-01-26 10:34:12 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:34:12 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:12 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:13 - Reporting 0 opened comms
+2019-01-26 10:34:19 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:34:19 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:34:19 - For help type #help;;
+2019-01-26 10:34:19 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:34:19 -   seq []
+2019-01-26 10:34:19 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:34:19 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:19 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:21 - Reporting 0 opened comms
+2019-01-26 10:34:26 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:34:26 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:34:26 - For help type #help;;
+2019-01-26 10:34:26 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:34:26 -   seq []
+2019-01-26 10:34:26 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:34:26 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:26 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:32 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:34:32 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:34:32 - For help type #help;;
+2019-01-26 10:34:32 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:34:32 -   seq []
+2019-01-26 10:34:32 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:34:32 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:32 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:34 - Reporting 0 opened comms
+2019-01-26 10:34:58 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:34:58 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:34:58 - For help type #help;;
+2019-01-26 10:34:58 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:34:58 -   seq []
+2019-01-26 10:34:58 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:34:58 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:58 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:34:59 - Reporting 0 opened comms
+2019-01-26 10:35:12 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:35:12 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:35:12 - For help type #help;;
+2019-01-26 10:35:12 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:35:12 -   seq []
+2019-01-26 10:35:12 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:35:12 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:35:12 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:35:14 - Reporting 0 opened comms
+2019-01-26 10:35:26 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-01-26 10:35:26 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-01-26 10:35:26 - For help type #help;;
+2019-01-26 10:35:26 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2019-01-26 10:35:26 -   seq []
+2019-01-26 10:35:26 - --> Added 'C:\dev\IfSharp\src\IfSharp\bin\Debug' to library include path
+2019-01-26 10:35:26 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-01-26 10:35:26 - --> Referenced 'C:\dev\IfSharp\src\IfSharp\bin\Debug\NetMQ.dll' (file may be locked by F# Interactive process)
